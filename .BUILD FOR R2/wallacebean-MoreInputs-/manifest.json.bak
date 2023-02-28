@@ -1,0 +1,9 @@
+{
+    "name": "MoreInputs",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/wallacebean/moreinputs",
+    "description": "Gives you access to more input options. This mod is NOT recommended for controller, this is being worked on. More features and QOL features to come, hopefully.",
+    "dependencies": [
+    "BepInEx-BepInExPack_LLBlaze-5.4.1900"
+    ]
+}

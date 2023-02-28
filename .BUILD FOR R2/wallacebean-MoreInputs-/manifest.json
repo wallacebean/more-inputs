@@ -1,0 +1,9 @@
+{
+    "name": "MoreInputs",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/wallacebean/moreinputs",
+    "description": "!!!!DO NOT USE THIS MOD ON CONTROLLER!!!! Gives you access to more input options, allows double binds for movement, and gives access to binding expression taunts, ready, ok, skin left, and skin right. More features and QOL features to come, hopefully.",
+    "dependencies": [
+    "BepInEx-BepInExPack_LLBlaze-5.4.1900"
+    ]
+}
