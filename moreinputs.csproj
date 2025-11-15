@@ -39,21 +39,218 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>E:\r2mm\LethalLeagueBlaze\profiles\Main Modded\BepInEx\core\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="Assembly-CSharp-publicized">
-      <HintPath>E:\r2mm\LethalLeagueBlaze\profiles\Main Modded\BepInEx\core\Assembly-CSharp-publicized.dll</HintPath>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\Assembly-CSharp-publicized.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx, Version=5.4.19.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>E:\r2mm\LethalLeagueBlaze\profiles\Main Modded\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
-    <Reference Include="System" />
+    <Reference Include="Rewired_Core">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\Rewired_Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Windows">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\Rewired_Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>E:\r2mm\LethalLeagueBlaze\profiles\Main Modded\BepInEx\core\UnityEngine.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.BaselibModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.BaselibModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>E:\SteamLibrary\steamapps\common\LLBlaze\LLBlaze_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.FileSystemHttpModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.FileSystemHttpModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StyleSheetsModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.StyleSheetsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TextCoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Timeline">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TimelineModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TimelineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UNETModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>..\..\AppData\Roaming\r2modmanPlus-local\LethalLeagueBlaze\profiles\New Main\BepInEx\core\UnityEngine.XRModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
